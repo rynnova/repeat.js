@@ -1,0 +1,15 @@
+{
+  "name": "repeat",
+  "version": "0.0.0",
+  "description": "Repeat arrays.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Ryan Y.",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.0"
+  }
+}
